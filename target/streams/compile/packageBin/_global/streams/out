@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/argumentsparser_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tool$ANNOVAR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Tool$ANNOVAR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgumentsParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/ArgumentsParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tool$SNPeff$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Tool$SNPeff$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Option$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Option$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CommandBuilder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/CommandBuilder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Tool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgumentsParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/ArgumentsParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command$$anonfun$generate$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Command$$anonfun$generate$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CommandBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/CommandBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Tool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tool$VEP$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Tool$VEP$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tool$Type.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Tool$Type.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Option.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ethan/IdeaProjects/ArgumentsParser/target/scala-2.11/classes/Option.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
